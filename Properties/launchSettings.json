@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TrayIconShowing (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "TrayIconShowing (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
